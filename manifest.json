@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "T&C Decoder",
+  "version": "1.0",
+  "description": "Decode any Terms & Conditions into plain English with red flags and a danger score.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "T&C Decoder"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
