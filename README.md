@@ -44,4 +44,4 @@ The Danger Score is not a random AI "vibe check." It uses a rigid, mathematical 
 Pull requests are welcome! Whether it's UI polish, better text extraction logic, or refining the prompt engineering to catch new legal loopholes, feel free to contribute.
 
 ## 📄 License
-This project is licensed under the [MIT / GPLv3] License - see the LICENSE file for details.
+This project is licensed under the GPLv3 License - see the LICENSE file for details.
